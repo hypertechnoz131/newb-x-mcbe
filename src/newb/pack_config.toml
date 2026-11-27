@@ -77,12 +77,12 @@ Chunk loading animation
 #No wave effects
 #'''
 
-[[subpack]]
-define = "LITE"
-materials = ["Sky", "RenderChunk", "Actor", "ActorGlint", "EndSky", "Clouds", "SunMoon", "Weather", "ItemInHandTextured", "ItemInHandColor", "ItemInHandColorGlint", "Stars"]
-description = '''
-Many effects disabled. A bit lighter!
-'''
+#[[subpack]]
+#define = "LITE"
+#materials = ["Sky", "RenderChunk", "Actor", "ActorGlint", "EndSky", "Clouds", "SunMoon", "Weather", "ItemInHandTextured", "ItemInHandColor", "ItemInHandColorGlint", "Stars"]
+#description = '''
+#Many effects disabled. A bit lighter!
+#'''
 
 
 #[[subpack]]
